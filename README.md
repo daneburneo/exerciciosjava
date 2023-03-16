@@ -1,2 +1,2 @@
-# exercicios
+# Exercicios
 Exercícios gerais de Java, como Lógica de Programação, Orientação a objetos, Debugs, etc...
